@@ -1,0 +1,195 @@
+<html xmlns:ganttproject="http://ganttproject.sf.net/">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>GanttProject - planing</title>
+    <style>
+	    A:link {
+		FONT-WEIGHT: bold;  TEXT-DECORATION: none;
+		FONT-SIZE: 14px ; COLOR: black;
+	    }
+	    A:visited {
+		FONT-WEIGHT: bold;  TEXT-DECORATION: none;
+		FONT-SIZE: 14px ; COLOR: black; BACKGROUND: none
+	    }
+	    A:hover {
+		FONT-WEIGHT: bold;  TEXT-DECORATION: none;
+		FONT-SIZE: 14px ; COLOR: white ; BACKGROUND: #6d9ec6;
+	    }
+	    .notes {
+	      padding-left: 10px;
+	    }
+	    .notes pre {
+	      font-family: Arial, Helvetica;
+	      font-size: 10px;
+	      margin-top: 0px;
+	      padding-top: 0px;
+	      margin-bottom: 5px;
+	    }
+	    .attachment {
+	      padding-left: 10px;
+	    }
+	    .attachment a:link {
+	      font-weight: normal;
+	      font-size: 12px;
+	      color: #6d9ec6;
+	      background: white;
+	    }
+	    .attachment a:hover {
+	      font-weight: normal;
+	      text-decoration: underline;
+	      font-size: 12px;
+	      color: #6d9ec6;
+	      background: white;
+	    }
+	    .attachment a:visited {
+	      font-weight: normal;
+	      font-size: 12px;
+	      background: white;
+	      color: gray;
+	    }
+	    TD {
+		FONT-SIZE: 12px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Geneva, sans-serif
+	    }
+	    UL {
+		FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Geneva, sans-serif
+	    }
+	    LI {
+		FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Geneva, sans-serif
+	    }
+	    H1 {
+		FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #6d9ec6;
+	    }
+	    H2 {
+		FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #000000;
+	    }
+	    H3 {
+		FONT-WEIGHT: bold; FONT-SIZE: 13pt; COLOR: #6d9ec6;
+	    }
+	    H4 {
+		FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000;
+	    }
+	    H5 {
+		FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #6d9ec6;
+	    }
+	    H6 {
+		FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000
+	    }
+
+	    </style>
+  </head>
+  <body bgcolor="white">
+    <center>
+      <style>
+div.project_name {
+  font-size: 150%;
+  color: black;
+  font-weight: bold;
+  border-top: solid #6d9ec6 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+}
+div.page_links {
+  background: #6d9ec6;
+  text-align: center;
+}
+</style>
+      <center>
+        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+          <tbody>
+            <tr>
+              <td bgcolor="#dddddd">
+                <div class="project_name">Gantt Project</div>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <div class="page_links">
+                  <a href="planing.html"></a> | <a href="planing-chart.html">Diagramme
+                    de Gantt</a> | <a href="planing-tasks.html">Tâches</a> | <a
+                    href="planing-resources.html">Ressources</a>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </center>
+      <br>
+      <table border="0" width="550">
+        <tbody>
+          <tr>
+            <td bgcolor="#dddddd" valign="top">
+              <h5>Projet</h5>
+            </td>
+            <td valign="top"><span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, Geneva, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">cite
+                web pour le collége</span></td>
+          </tr>
+          <tr>
+            <td bgcolor="#dddddd" valign="top">
+              <h5>Organisation</h5>
+            </td>
+            <td valign="top">
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td bgcolor="#dddddd" valign="top">
+              <h5>Lien internet</h5>
+            </td>
+            <td valign="top"><a href="http://">
+                <h6>http://<a style="font-weight: bold; text-decoration: none; font-size: 14px; color: black; background: none rgb(255, 255, 255); font-family: Arial, Helvetica, Geneva, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
+                    <h6 style="font-weight: bold; font-size: 10pt; color: rgb(0, 0, 0);"><span
+                        style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, Geneva, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important;">http://file:///D:/CITE%20WEB%20COLL%C3%A9Ge/coll%C3%A8ge%20cit%C3%A9%20el%20kadra.html</span></h6>
+                  </a></h6>
+              </a></td>
+          </tr>
+          <tr>
+            <td bgcolor="#dddddd" valign="top">
+              <h5>Description</h5>
+            </td>
+            <td valign="top">
+              <div style="padding-left:10pt">
+                <pre style="font-family: sans-serif"></pre>
+              </div>
+              <br>
+              <center style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                <table style="width: 556px; height: 27px;" border="0">
+                  <tbody>
+                    <tr>
+                      <td style="font-size: 12px; color: black; font-style: normal; font-family: Arial, Helvetica, Geneva, sans-serif;"
+                        valign="top">
+                        <center style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                          <table border="0" width="550">
+                            <tbody>
+                              <tr>
+                                <td style="font-size: 12px; color: black; font-style: normal; font-family: Arial, Helvetica, Geneva, sans-serif;"
+                                  valign="top"><span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, Geneva, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">présanter
+                                    le collége</span></td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </center>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </center>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </center>
+    <br>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+      <tbody>
+        <tr>
+          <td bgcolor="#6d9ec6" width="50%"><font color="#FFFFFF"><b>Ganttproject
+                (2.6.6 Brno (build 1715))</b></font></td>
+          <td bgcolor="#6d9ec6" align="right" width="50%"><b><a href="http://ganttproject.biz">ganttproject.biz</a></b>
+            <br>
+            <b>15/02/18 - 08:49:22</b></td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
